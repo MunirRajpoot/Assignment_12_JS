@@ -1,0 +1,1 @@
+// 11. Write a js program to count frequency of each element in an array.
