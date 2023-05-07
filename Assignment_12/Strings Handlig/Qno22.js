@@ -1,0 +1,1 @@
+// 22. Write a js program to remove last occurrence of a character from string.
